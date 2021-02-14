@@ -16,6 +16,10 @@
     "event invoke",
     "invoke"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Soqet/observable-event"
+  },
   "author": "Soqet",
   "license": "ISC",
   "files": [
