@@ -26,5 +26,5 @@
     "lib/**/*",
     "README.md"
   ],
-  "types": "./lib/EventHandler.d.ts"
+  "types": "./lib/ObservableEvent.d.ts"
 }
